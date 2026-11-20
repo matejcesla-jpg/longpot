@@ -1,0 +1,18 @@
+# Potions enabled here become 8 minutes long when brewed.
+# Effects not enabled retain their normal vanilla duration.
+enabled:
+  SPEED: true
+  STRENGTH: true
+  FIRE_RESISTANCE: true
+  REGENERATION: true
+  JUMP_BOOST: true
+  NIGHT_VISION: true
+  INVISIBILITY: true
+  WATER_BREATHING: true
+  SLOW_FALLING: true
+  HASTE: false
+  RESISTANCE: false
+  POISON: false
+  WEAKNESS: false
+  SLOWNESS: false
+  TURTLE_MASTER: false
